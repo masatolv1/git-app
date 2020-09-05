@@ -3,5 +3,3 @@ class ApplicationRecord < ActiveRecord::Base
 end
 
 # ああ
-
-
